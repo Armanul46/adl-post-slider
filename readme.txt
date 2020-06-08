@@ -11,7 +11,7 @@ This plugin allows you display your blog posts in a very beautiful slider that w
 
 == Description ==
 
-Live demo: <https://aazztech.com/demos/plugins/post-slider>
+Live demo: <https://demo.aazztech.com/plugin/post-slider/>
 
 Do you want to show your website content in a way that appeals readers? ADL Post Slider allows you to display your blog posts in a very beautiful slider that will be appealing to your reader. This slider not only displays your blog posts in a nice slider but also in a responsive way. So, your blog posts will be displayed perfectly on different devices such as Desktop, Tablet and Mobile etc. This Posts Slider also has 100% touch and swipe support. So, your users from any touch enabled devices can easily move slider content.
 
