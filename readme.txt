@@ -2,8 +2,8 @@
 Contributors: AazzTech
 Tags: post slider, post carousel, responsive post slider, recent post slider, featured post slider, popular post slider
 Requires at least: 4.0
-Tested up to:  5.4
-Stable tag: 1.6.5
+Tested up to:  5.5
+Stable tag: 1.6.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -77,6 +77,9 @@ After successfully installing and activating the plugin, you will find "Post Sli
 1. Frontend
 
 == Changelog ==
+= 1.6.6 =
+* Add: WordPress 5.5 compatibility
+* Fix: Placeholder image issue
 = 1.6.5 =
 * Improved: WordPress version
 = 1.6.4 =

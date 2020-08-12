@@ -144,7 +144,7 @@ function aps_metabox_cb( $post ) {
                 <div class="cmb2-wrap form-table">
                     <div id="cmb2-metabox" class="cmb2-metabox cmb-field-list">
                         <div class="cmb-row cmb-type-text-medium">
-                            <div class="aps-upgrade-notice">Post Type Option is available in <a href="http://aazztech.com/product/aps-post-slider-pro" target="_blank" title="Upgrade to pro">Pro Version</a> only.</div>
+                            <div class="aps-upgrade-notice">Post Type Option is available in <a href="http://aazztech.com/product/adl-post-slider-pro" target="_blank" title="Upgrade to pro">Pro Version</a> only.</div>
                         </div>
                         <div class="cmb-row cmb-type-select aps-disabled">
                             <div class="cmb-th">
