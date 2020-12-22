@@ -2,8 +2,8 @@
 Contributors: AazzTech
 Tags: post slider, post carousel, responsive post slider, recent post slider, featured post slider, popular post slider
 Requires at least: 4.0
-Tested up to:  5.5
-Stable tag: 1.6.6
+Tested up to:  5.6
+Stable tag: 1.6.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -33,7 +33,7 @@ Do you want to show your website content in a way that appeals readers? ADL Post
 *   Translation ready.
 *   And many more features.
 
-More amazing features available in [__Pro version__](http://aazztech.com/product/adl-post-slider-pro).
+More amazing features available in [__Pro version__](http://wpwax.com/product/adl-post-slider-pro).
 
 = Features of the Pro version =
 *   Full control of how slider displays.
@@ -77,6 +77,8 @@ After successfully installing and activating the plugin, you will find "Post Sli
 1. Frontend
 
 == Changelog ==
+= 1.6.7 =
+* Add: WordPress 5.6 compatibility
 = 1.6.6 =
 * Add: WordPress 5.5 compatibility
 * Fix: Placeholder image issue

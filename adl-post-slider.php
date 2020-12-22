@@ -4,11 +4,11 @@
  */
 /*
 Plugin Name: ADL Post Slider
-Plugin URI: https://aazztech.com/product/adl-post-slider-pro
+Plugin URI: https://wpwax.com/product/adl-post-slider-pro
 Description: This excellent plugin allows you to display your posts with a very beautiful slider without coding knowledge.
-Version: 1.6.6
-Author: AazzTech
-Author URI: https://aazztech.com
+Version: 1.6.7
+Author: wpWax
+Author URI: https://wpwax.com
 License: GPLv2 or later
 Domain Path: /languages/
 Text Domain: adl-post-slider
