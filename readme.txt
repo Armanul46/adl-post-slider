@@ -9,9 +9,13 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin allows you display your blog posts in a very beautiful slider that will attracts your readers. 
 
+== We have discontinued the development of Post Slider and continue to focus on our existing solutions that you love as well as developing new features to escalate your experience to a greater level.
+
+Our "Post Slider" plugin shares the same set of functionalities as the "[__Post Grid & Carousel Ultimate__](https://wordpress.org/plugins/post-grid-carousel-ultimate/)". ==
+
 == Description ==
 
-Live demo: <https://demo.aazztech.com/plugin/post-slider/>
+Live demo: <https://demo.wpwax.com/plugin/post-grid-theme-1/>
 
 Do you want to show your website content in a way that appeals readers? ADL Post Slider allows you to display your blog posts in a very beautiful slider that will be appealing to your reader. This slider not only displays your blog posts in a nice slider but also in a responsive way. So, your blog posts will be displayed perfectly on different devices such as Desktop, Tablet and Mobile etc. This Posts Slider also has 100% touch and swipe support. So, your users from any touch enabled devices can easily move slider content.
 
@@ -33,7 +37,7 @@ Do you want to show your website content in a way that appeals readers? ADL Post
 *   Translation ready.
 *   And many more features.
 
-More amazing features available in [__Pro version__](http://wpwax.com/product/adl-post-slider-pro).
+More amazing features available in [__Pro version__](https://wpwax.com/product/post-grid-carousel-ultimate-pro/).
 
 = Features of the Pro version =
 *   Full control of how slider displays.
