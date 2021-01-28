@@ -9,11 +9,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This plugin allows you display your blog posts in a very beautiful slider that will attracts your readers. 
 
-== We have discontinued the development of Post Slider and continue to focus on our existing solutions that you love as well as developing new features to escalate your experience to a greater level.
-
-Our "Post Slider" plugin shares the same set of functionalities as the "[__Post Grid & Carousel Ultimate__](https://wordpress.org/plugins/post-grid-carousel-ultimate/)". ==
-
 == Description ==
+
+== We have discontinued the development of Post Slider and continue to focus on our existing solutions that you love as well as developing new features to escalate your experience to a greater level. ==
+
+ Our "Post Slider" plugin shares the same set of functionalities as the [Post Grid & Carousel Ultimate](https://wordpress.org/plugins/post-grid-carousel-ultimate/).
 
 Live demo: <https://demo.wpwax.com/plugin/post-grid-theme-1/>
 
